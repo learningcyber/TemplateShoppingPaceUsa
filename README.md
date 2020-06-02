@@ -50,8 +50,8 @@
   <em>
     A demo is worth a thousand words — check it out at
     <a
-      href="https://demov1-learningcyberonline.blogspot.com"
-    >https://demov1-learningcyberonline.blogspot.com</a>.
+      href="https://demov2-learningcyberonline.blogspot.com"
+    >https://demov2-learningcyberonline.blogspot.com</a>.
   </em>
 </p>
 
